@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Suite" duration-ms="128324" started-at="2017-08-31T08:19:23Z" finished-at="2017-08-31T08:21:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="128324" started-at="2017-08-31T08:19:23Z" finished-at="2017-08-31T08:21:31Z">
+      <class name="jpetStoreckg.homePageNavigation">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.homePageNavigation@180bc464]" name="setup" duration-ms="6645" started-at="2017-08-31T01:20:48Z" finished-at="2017-08-31T01:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.homePageNavigation -->
+      <class name="jpetStoreckg.signOut">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.signOut@17550481]" name="setup" duration-ms="7300" started-at="2017-08-31T01:20:34Z" finished-at="2017-08-31T01:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.signOut -->
+      <class name="jpetStoreckg.catalogueDetailPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueDetailPage@64616ca2]" name="setup" duration-ms="9392" started-at="2017-08-31T01:19:56Z" finished-at="2017-08-31T01:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage -->
+      <class name="jpetStoreckg.Register">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.Register@3b81a1bc]" name="setup" duration-ms="13520" started-at="2017-08-31T01:19:43Z" finished-at="2017-08-31T01:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.Register -->
+      <class name="jpetStoreckg.catalogueDetailPage5">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueDetailPage5@5f2050f6]" name="setup" duration-ms="8156" started-at="2017-08-31T01:19:35Z" finished-at="2017-08-31T01:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage5 -->
+      <class name="jpetStoreckg.catalogueDetailPage4">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueDetailPage4@dfd3711]" name="setup" duration-ms="12071" started-at="2017-08-31T01:19:23Z" finished-at="2017-08-31T01:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage4 -->
+      <class name="jpetStoreckg.catalogueDetailPage3">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueDetailPage3@4e04a765]" name="setup" duration-ms="8306" started-at="2017-08-31T01:20:15Z" finished-at="2017-08-31T01:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage3 -->
+      <class name="jpetStoreckg.catalogueDetailPage2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueDetailPage2@13fee20c]" name="setup" duration-ms="9586" started-at="2017-08-31T01:20:06Z" finished-at="2017-08-31T01:20:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage2 -->
+      <class name="jpetStoreckg.cartPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.cartPage@2ef9b8bc]" name="setup" duration-ms="7463" started-at="2017-08-31T01:21:24Z" finished-at="2017-08-31T01:21:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.cartPage -->
+      <class name="jpetStoreckg.catalogueTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueTest@783e6358]" name="setup" duration-ms="10560" started-at="2017-08-31T01:20:24Z" finished-at="2017-08-31T01:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueTest -->
+      <class name="jpetStoreckg.catalogueTest5">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueTest5@2c6a3f77]" name="setup" duration-ms="4947" started-at="2017-08-31T01:21:00Z" finished-at="2017-08-31T01:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueTest5 -->
+      <class name="jpetStoreckg.catalogueTest4">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueTest4@1324409e]" name="setup" duration-ms="5536" started-at="2017-08-31T01:20:55Z" finished-at="2017-08-31T01:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueTest4 -->
+      <class name="jpetStoreckg.loginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.loginTest@735f7ae5]" name="setup" duration-ms="6551" started-at="2017-08-31T01:20:42Z" finished-at="2017-08-31T01:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.loginTest -->
+      <class name="jpetStoreckg.baseTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.baseTest@246ae04d]" name="setup" duration-ms="5083" started-at="2017-08-31T01:21:05Z" finished-at="2017-08-31T01:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.baseTest -->
+      <class name="jpetStoreckg.catalogueTest3">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueTest3@5315b42e]" name="setup" duration-ms="6856" started-at="2017-08-31T01:21:17Z" finished-at="2017-08-31T01:21:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueTest3 -->
+      <class name="jpetStoreckg.catalogueTest2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jpetStoreckg.catalogueTest2@62043840]" name="setup" duration-ms="6229" started-at="2017-08-31T01:21:10Z" finished-at="2017-08-31T01:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- jpetStoreckg.catalogueTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- TestNG Suite -->
+</testng-results>
